@@ -6,6 +6,7 @@ public class Random {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hey how is everybody ?????");
+		System.out.println("i made some changes");
 	}
 
 }
